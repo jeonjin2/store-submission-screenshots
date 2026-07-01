@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile Store Screenshots"
+  short_description: "Generate compliant mobile store assets"
+  default_prompt: "Use $appstore-screenshot-requirements to generate mobile store screenshots and featured graphics from my latest app screenshots."
