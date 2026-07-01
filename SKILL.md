@@ -1,5 +1,5 @@
 ---
-name: appstore-screenshot-requirements
+name: screenshot
 description: Create mobile store screenshot and featured graphic assets from real app screenshots. Use when Codex needs to generate, resize, crop, compose, validate, or review App Store or Google Play phone screenshots, tablet/iPad screenshots, Korean/English variants, typography/color choices, straight vs mockup layout decisions, or 1024x500 featured graphics, especially when source screenshots are in Downloads and final files must be saved under /Users/james/Code.
 ---
 

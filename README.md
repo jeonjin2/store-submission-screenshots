@@ -7,7 +7,7 @@ Codex skill for generating App Store / Google Play screenshot sets and `1024 x 5
 Invoke the skill as:
 
 ```text
-Use $appstore-screenshot-requirements to generate mobile store screenshots from the latest app screenshots in Downloads.
+Use $screenshot to generate mobile store screenshots from the latest app screenshots in Downloads.
 ```
 
 ## Skill Files
